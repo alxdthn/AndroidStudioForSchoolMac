@@ -5,6 +5,7 @@
 # 1
 
 Качаем Android Studio https://developer.android.com/studio
+
 <img src="https://github.com/alxdthn/AndroidStudioForSchoolMac/blob/master/src/screen1.png" width="400">
 
 # 2
