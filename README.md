@@ -1,4 +1,4 @@
-# Ставим Android Studio на школьный мак
+# Ставим Android Studio на мак
 <img src="https://github.com/alxdthn/AndroidStudioForSchoolMac/blob/master/src/logo.png" width="500">
 
 # 1 Download
