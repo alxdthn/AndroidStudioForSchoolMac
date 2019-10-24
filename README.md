@@ -5,8 +5,6 @@
 
 Качаем Android Studio https://developer.android.com/studio
 
-<img src="https://github.com/alxdthn/AndroidStudioForSchoolMac/blob/master/src/screen1.png" width="400">
-
 # 2 Unpacking
 
 Распаковываем содержимое .dmg в папку /Volumes/Storage/goinfre/{username}, где username ваш логин в интре.
