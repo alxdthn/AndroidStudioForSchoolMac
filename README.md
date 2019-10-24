@@ -11,7 +11,7 @@
 
 # 2 Unpacking
 
-Распаковываем содержимое .dmg в папку /Volumes/Storage/goinfre/{username}, где username ваш логин в интре.
+Распаковываем содержимое .dmg в папку /Volumes/Storage/goinfre/{username}, где username ваш логин в интре. Android Studio.app пока не запускаем!
 goinfre - локальная папка для каждого мака, при смене рабочего места все действия нужно будет повторить.
 
 <img src="https://github.com/alxdthn/AndroidStudioForSchoolMac/blob/master/src/screen2.png" width="400">
