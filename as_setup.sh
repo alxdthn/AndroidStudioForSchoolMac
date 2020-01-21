@@ -11,4 +11,7 @@ else
 	mkdir -p sdk
 	ln -sfn /Volumes/Storage/goinfre/${user_name}/.android .android
 	ln -sfn /Volumes/Storage/goinfre/${user_name}/.gradle .gradle
+	printf "export ANDROID_HOME=/Users/${user_name}/goinfre/sdk\n" >> ~/.zshrc
+	printf 'export PATH=${PATH}:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools\n' >> ~/.zshrc
+	source ~/.zshrc
 fi
